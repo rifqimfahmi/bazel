@@ -46,7 +46,7 @@ For the sample project, use a basic Android app project in
 
 This app has a single button that prints a greeting when clicked:
 
-![Button greeting](/docs/images/android_tutorial_app.png "Tutorial app button greeting")
+![Button greeting](/site/en/docs/images/android_tutorial_app.png "Tutorial app button greeting")
 
 **Figure 1.** Android app button greeting.
 
@@ -386,7 +386,7 @@ bazel mobile-install //src/main:app
 
 Next, find and launch the "Bazel Tutorial App":
 
-![Bazel tutorial app](/docs/images/android_tutorial_before.png "Bazel tutorial app")
+![Bazel tutorial app](/site/en/docs/images/android_tutorial_before.png "Bazel tutorial app")
 
 **Figure 2.** Bazel tutorial app.
 
